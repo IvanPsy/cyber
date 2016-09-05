@@ -35,7 +35,7 @@ Comments: root > _includes > disqus.html
 
 Make sure you mention all the front matter without miss. For example
 
-      ---
+      ``---
       layout: post
       title: 'Digital Parenting Tips: Wrong Practices'
       description: Teenagers and Adult Parents perceive Technology in different ways, so we adults often make wrong moves while having good intentions. Here I explain how.
@@ -44,7 +44,7 @@ Make sure you mention all the front matter without miss. For example
       tags: Digital-Education Parenting
       img: Digital-Parenting-Tips-Wrong-Practices.png
       permalink: /digital-parenting-tips-wrong-practices/
-      ---
+      ---``
 
 ## Adding featured image in post
 
