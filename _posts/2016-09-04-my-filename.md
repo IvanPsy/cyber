@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 description: In this video I explain the other side of the coin
 date: '2016-09-04 21:00 EST'
 categories: Digital-Education
