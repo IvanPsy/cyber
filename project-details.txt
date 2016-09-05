@@ -27,7 +27,7 @@ Make sure you mention all the front matter without miss. For example
 layout: post
 title: 'Digital Parenting Tips: Wrong Practices'
 description: Teenagers and Adult Parents perceive Technology in different ways, so we adults often make wrong moves while having good intentions. Here I explain how.
-date:   2016-03-23 21:00 EST
+date: 2016-03-23 21:00 EST
 categories: Digital-Education 
 tags: Digital-Education Parenting
 img: Digital-Parenting-Tips-Wrong-Practices.png
