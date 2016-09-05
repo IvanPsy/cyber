@@ -9,6 +9,8 @@ Pages: Inside '_pages' folder which includes
                 5. Sign up
                 6. thank-you
                 7. 404 
+                
+                
 Sidebar items: root > _includes > sidebar.html - New pages will be automatically added to sidebar(use 'inmenu:false' if you don't want a page to show up on sidebar)           
 Home page chapters: root > _includes > chapter-links.html
 Images: root > images
