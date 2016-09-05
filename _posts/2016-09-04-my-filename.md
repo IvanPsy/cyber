@@ -8,7 +8,9 @@ img: Endless-Games-may-be-the-door-to-Online-Gambling-Addiction.jpg
 permalink: /how/
 title: How to write a post
 ---
-Where is everything?
+This is just a guide post, not published. 
+
+## Where is everything?
 
 Posts: Inside '_posts' folder.
 Pages: Inside '_pages' folder which includes 
