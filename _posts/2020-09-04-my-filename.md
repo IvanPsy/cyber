@@ -8,7 +8,7 @@ img: Endless-Games-may-be-the-door-to-Online-Gambling-Addiction.jpg
 permalink: /how/
 title: How to write a post
 ---
-This is just a guide post, not published. 
+This is just a guide post, not published. It will show up on top in the ``_posts`` folder because the file is dated 2020!
 
 ## Where is everything?
 
