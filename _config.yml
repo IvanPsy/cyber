@@ -10,7 +10,7 @@ title:            Ivan Ferrero
 tagline:          'Digital Psychologist'
 description:      'Solving Cyberbullying is hard, yet possible'
 url:                 'http://solvecyberbullying.com'            
-baseurl:          ''
+baseurl:          '/'
 paginate:         4
 
 gems: [jekyll-paginate, jekyll-seo-tag]
