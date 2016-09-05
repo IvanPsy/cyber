@@ -4,8 +4,6 @@ published: false
 description: In this video I explain the other side of the coin
 date: '2016-09-04 21:00 EST'
 categories: Digital-Education
-tags:
-  - Digital-Education Addiction
 img: Endless-Games-may-be-the-door-to-Online-Gambling-Addiction.jpg
 permalink: /my-file/
 title: How to write a post
