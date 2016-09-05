@@ -62,3 +62,5 @@ img: Digital-Parenting-Tips-Wrong-Practices.png - this is case sensitive. So 'so
 			<iframe class="youtube-video" src="https://www.youtube.com/embed/dYPaypp4dG0" frameborder="0" allowfullscreen></iframe>
 
 
+## Markdown syntax
+If you are in doubt please refer to: [This article](https://daringfireball.net/projects/markdown/syntax)
