@@ -68,4 +68,4 @@ This is case sensitive. So ``something.png`` is different from ``something.PNG``
 ## Markdown syntax
 If you are in doubt please refer to: [This article](https://daringfireball.net/projects/markdown/syntax)
 
-Add anything that you want to insert again and again in the posts.
+Add anything here that you want to document.
