@@ -21,6 +21,7 @@ title: Sample post.
 
 ![](/images/Dr%20Ivan%20Ferrero%20cyber%20psychologist%20cover%2001.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYPaypp4dG0" frameborder="0" allowfullscreen></iframe>
 
 ![alt text](path to the img)
 
