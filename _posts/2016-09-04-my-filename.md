@@ -19,6 +19,8 @@ title: Sample post.
 
 ![](/images/Digital%20Parenting%20Advice%20FB%20page%20logo.png)
 
+![](/images/Dr%20Ivan%20Ferrero%20cyber%20psychologist%20cover%2001.jpg)
+
 
 ![alt text](path to the img)
 
