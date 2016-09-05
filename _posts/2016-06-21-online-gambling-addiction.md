@@ -1,12 +1,15 @@
 ---
 layout: post
 title: 'Online Gambling Addiction and Endless Runner Games: the Doorstep?'
-description: 'In this video I explain the other side of the coin: Endless Games may be the door to Online Gambling.'
-date:   2016-06-21 21:00 EST
-categories: Digital-Education 
+description: >-
+  In this video I explain the other side of the coin: Endless Games may be the
+  door to Online Gambling.
+date: '2016-05-21 21:00 EST'
+categories: Digital-Education
 tags: Digital-Education Addiction
 img: Endless-Games-may-be-the-door-to-Online-Gambling-Addiction.jpg
 permalink: /online-gambling-addiction-endless-runner-games/
+published: true
 ---
 
 
