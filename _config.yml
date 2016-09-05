@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        /posts/:title/
+
+# User Configuration
+title:            Ivan Ferrero
+tagline:          'Digital Psychologist'
+description:      'Solving Cyberbullying is hard, yet possible'
+url:                 'http://solvecyberbullying.com'            
+baseurl:          '/'
+paginate:         4
+
+gems: [jekyll-paginate, jekyll-seo-tag]
+
+include: [_pages]
+
+sass:
+  style: compressed
+
+# Author Info
+author:
+  name:           'Ivan Ferrero'
+  url:             'http://solvecyberbullying.com'  
+
+
+# Google Analytics Configuration
+google_analytics:
+  tracking_id:      
+
+# Version Info
+version:          1.0

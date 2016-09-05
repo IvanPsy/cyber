@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  {% include google_analytics.html %}
+
+  <body class="theme-base-0d sidebar-overlay">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container" style="text-align:center">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          
+          </h3>
+                 
+        </div>
+        
+        
+        <a target="_blank" href="/sign-up/">
+ <div style="float: right; position:relative; bottom: 20px"><svg class="sub" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2932.5 500" >
+<path class="a" d="M414.858,320.768c-1.23,0-2.461,0-3.691-1.23l-71.37-66.447c-2.46-2.461-2.46-6.153,0-8.614
+	c2.461-2.461,6.152-2.461,8.614,0l71.37,66.448c2.461,2.461,2.461,6.152,0,8.613C418.55,320.768,416.089,320.768,414.858,320.768z"
+	/>
+<path class="a" d="M178.6,320.768c-1.23,0-3.691-1.23-4.922-2.461c-2.46-2.461-2.46-6.153,0-8.613l71.37-66.448c2.461-2.46,6.153-2.46,8.613,0
+	c2.461,2.461,2.461,6.152,0,8.613l-71.37,66.448C181.062,320.768,179.831,320.768,178.6,320.768z"/>
+<path class="a" d="M456.696,382.293H136.763c-17.228,0-30.763-13.535-30.763-30.763V142.344c0-17.228,13.536-30.763,30.763-30.763h319.933
+	c17.227,0,30.763,13.536,30.763,30.763V351.53C487.459,368.758,473.923,382.293,456.696,382.293z M136.763,123.886
+	c-9.845,0-18.458,8.614-18.458,18.458V351.53c0,9.844,8.613,18.458,18.458,18.458h319.933c9.844,0,18.457-8.614,18.457-18.458
+	V142.344c0-9.844-8.613-18.458-18.457-18.458H136.763z"/>
+<path class="a" d="M296.729,277.699c-8.614,0-15.997-2.461-22.149-8.613L115.844,132.5c-2.461-2.461-2.461-6.153,0-9.844
+	c2.461-2.461,6.152-2.461,8.613,0l157.506,137.817c7.383,7.383,20.918,7.383,29.531,0l157.506-137.817
+	c2.461-2.461,6.152-2.461,8.614,0c2.46,2.461,2.46,6.152,0,8.614L318.878,270.316C312.726,275.238,305.343,277.699,296.729,277.699z
+	"/>
+<text class="a" transform="matrix(1 0 0 1 568.5 352.5)" font-family="'helvetica'" font-size="318" letter-spacing="-5">Get free updates</text>
+<style>.a{fill: #6a9fb5}</style></svg>&nbsp;&nbsp;
+</div>  
+</a>     
+     
+     
+     
+      </div>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+      
+      {% include footer.html %}
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+{% include cookie-law.html %}
+  </body>
+</html>

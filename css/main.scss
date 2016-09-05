@@ -1,0 +1,11 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+$brand-color: #6a9fb5;
+
+//Import
+@import "poole",
+        "syntax",
+        "lanyon",
+        "custom";
