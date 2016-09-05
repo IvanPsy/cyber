@@ -15,9 +15,9 @@ title: Sample post.
 
 ## Second header
 
-![Bullismo Online Bot Card.PNG]({{site.baseurl}}/_posts/Bullismo Online Bot Card.PNG)
+![Bullismo Online Bot Card.PNG](/_posts/Bullismo Online Bot Card.PNG)
 
-![]({{site.baseurl}}/images/Digital%20Parenting%20Advice%20FB%20page%20logo.png)
+![](/images/Digital%20Parenting%20Advice%20FB%20page%20logo.png)
 
 
 ![alt text](path to the img)
