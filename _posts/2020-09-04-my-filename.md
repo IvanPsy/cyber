@@ -48,8 +48,11 @@ Make sure you mention all the front matter without miss. For example
 
 ## Adding featured image in post
 
-For 'img:' variable, keep the image inside images folder and just provide the name with extension (jpg, png etc..). For example
-img: Digital-Parenting-Tips-Wrong-Practices.png - this is case sensitive. So 'something.png' is different from 'something.PNG' and 'Something.png' .  Make sure you enter the proper extension as well.
+For 'img:' variable in metadata, keep the image inside images folder and just provide the name with extension (jpg, png etc..). For example
+
+		img: Digital-Parenting-Tips-Wrong-Practices.png
+
+This is case sensitive. So ``something.png`` is different from ``something.PNG`` and ``Something.png``.
 
 ## Inserting Link 
 			[Text](path to the link)
