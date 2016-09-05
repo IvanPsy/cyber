@@ -8,21 +8,57 @@ tags:
   - Digital-Education Addiction
 img: Endless-Games-may-be-the-door-to-Online-Gambling-Addiction.jpg
 permalink: /my-file/
-title: Sample post.
+title: How to write a post
 ---
-## A New Post
+Where is everything?
+
+Posts: Inside '_posts' folder.
+Pages: Inside '_pages' folder which includes 
+                1. About
+                2. Contact
+                3. Articles
+                4. Tags
+                5. Sign up
+                6. thank-you
+                7. 404 
+                
+                
+Sidebar items: root > _includes > sidebar.html - New pages will be automatically added to sidebar(use 'inmenu:false' if you don't want a page to show up on sidebar)           
+Home page chapters: root > _includes > chapter-links.html
+Images: root > images
+CSS: root > sass - these files are in .scss format (normal css can be used inside them)
+Comments: root > _includes > disqus.html
 
 
-## Second header
 
-![Bullismo Online Bot Card.PNG](/_posts/Bullismo Online Bot Card.PNG)
+## Adding a new post or editing.
 
-![](/images/Digital%20Parenting%20Advice%20FB%20page%20logo.png)
+Make sure you mention all the front matter without miss. For example
 
-![](/images/Dr%20Ivan%20Ferrero%20cyber%20psychologist%20cover%2001.jpg)
+---
+layout: post
+title: 'Digital Parenting Tips: Wrong Practices'
+description: Teenagers and Adult Parents perceive Technology in different ways, so we adults often make wrong moves while having good intentions. Here I explain how.
+date: 2016-03-23 21:00 EST
+categories: Digital-Education 
+tags: Digital-Education Parenting
+img: Digital-Parenting-Tips-Wrong-Practices.png
+permalink: /digital-parenting-tips-wrong-practices/
+---
+
+## Adding featured image in post
+
+For 'img:' variable, keep the image inside images folder and just provide the name with extension (jpg, png etc..). For example
+img: Digital-Parenting-Tips-Wrong-Practices.png - this is case sensitive. So 'something.png' is different from 'something.PNG' and 'Something.png' .  Make sure you enter the proper extension as well.
+
+## Inserting Link 
+[Text](path to the link)
+
+## Inserting Image
+![alt text](path to the img)
+
+## Inserting Youtube video
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/dYPaypp4dG0" frameborder="0" allowfullscreen></iframe>
 
-![alt text](path to the img)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
