@@ -35,16 +35,16 @@ Comments: root > _includes > disqus.html
 
 Make sure you mention all the front matter without miss. For example
 
----
-layout: post
-title: 'Digital Parenting Tips: Wrong Practices'
-description: Teenagers and Adult Parents perceive Technology in different ways, so we adults often make wrong moves while having good intentions. Here I explain how.
-date: 2016-03-23 21:00 EST
-categories: Digital-Education 
-tags: Digital-Education Parenting
-img: Digital-Parenting-Tips-Wrong-Practices.png
-permalink: /digital-parenting-tips-wrong-practices/
----
+      ---
+      layout: post
+      title: 'Digital Parenting Tips: Wrong Practices'
+      description: Teenagers and Adult Parents perceive Technology in different ways, so we adults often make wrong moves while having good intentions. Here I explain how.
+      date: 2016-03-23 21:00 EST
+      categories: Digital-Education 
+      tags: Digital-Education Parenting
+      img: Digital-Parenting-Tips-Wrong-Practices.png
+      permalink: /digital-parenting-tips-wrong-practices/
+      ---
 
 ## Adding featured image in post
 
@@ -52,13 +52,13 @@ For 'img:' variable, keep the image inside images folder and just provide the na
 img: Digital-Parenting-Tips-Wrong-Practices.png - this is case sensitive. So 'something.png' is different from 'something.PNG' and 'Something.png' .  Make sure you enter the proper extension as well.
 
 ## Inserting Link 
-[Text](path to the link)
+			[Text](path to the link)
 
 ## Inserting Image
-![alt text](path to the img)
+			![alt text](path to the img)
 
 ## Inserting Youtube video
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/dYPaypp4dG0" frameborder="0" allowfullscreen></iframe>
+			<iframe class="youtube-video" src="https://www.youtube.com/embed/dYPaypp4dG0" frameborder="0" allowfullscreen></iframe>
 
 
