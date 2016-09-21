@@ -33,6 +33,8 @@ So it’s natural to make your teens use your favorite apps. Forget it: if they 
 
 ## Snapchat is the natural habitat for your teens.
 
+<iframe class="youtube-video" src="https://www.youtube-nocookie.com/embed/beOvCUnnqqY" frameborder="0" allowfullscreen></iframe>
+
 Your sons and daughters are going to have a very busy Life while away from home.
 
 Furthermore, they are required to learn how to live on their own, how to cook for themselves, how to clean their home, wash dishes, iron their clothes.
