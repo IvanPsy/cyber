@@ -17,6 +17,8 @@ img: Cyberbullism.jpg
 
 ## Discerning Cyberbullying
 
+<iframe class="youtube-video" src="https://www.youtube-nocookie.com/embed/FZUodmNH4tw" frameborder="0" allowfullscreen></iframe>
+
 While all the world is talking about cyberbullying , we need to discern the reality (numbers) from the perception (what we think about).
 <a href="http://www.sciencedaily.com/releases/2012/08/120806093942.htm" target="_blank">A research by Dan Olweus</a>, PhD, of the University of Bergen, Norway, tells us that Cyberbullying in the USA is less frequent than the Traditional Bullying.
 In the sample of the research _&#8220;an average of 18 percent of students said they had been verbally bullied, while about 5 percent said they had been cyberbullied&#8221;_.
