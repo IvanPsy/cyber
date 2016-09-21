@@ -30,6 +30,9 @@ Our children live a blended Reality, where Digital and Offline are not two sides
 It’s an old story, a role once delegated to prehistoric campfires (think about Myths), then to the street storytellers (think about fables and spoken novels), books, TV, now video games.
 
 ## The insurgence of the Hybrid Identity.
+
+<iframe class="youtube-video" src="https://www.youtube-nocookie.com/embed/wL34vK-On3o" frameborder="0" allowfullscreen></iframe>
+
 As Online and Offline merge and blend together, our children are not able to discern the different Identities as we are.
 
 That is, we lived the pre-Web, so we can somewhat compare how Life was before to how Life is after, so we are able to stay aware of the different Identities.
