@@ -28,21 +28,21 @@ The button “Like” and the Facebook social widgets are interactive services w
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – Privacy Policy
+**Processing location:** USA – [Privacy Policy](https://www.facebook.com/privacy/explanation)
 
 ## Twitter Tweet button and social widgets (Twitter)
 The Tweet button and the Twitter social widgets are interactive services with the social network Twitter, provided by Twitter Inc.
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – Privacy Policy
+**Processing location:** USA – [Privacy Policy](https://twitter.com/privacy)
 
 ## +1 Button and Google+ social widgets (Google Inc.)
 The +1 button and Google+ social widgets are interactive services with the Google+ social network, provided by Google Inc.
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – Privacy Policy
+**Processing location:** USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/)
 
 ## Linkedin button and social widgets (LinkedIn Corporation)
 
@@ -50,7 +50,7 @@ The button and the Linkedin social widgets are interactive services with the soc
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – Privacy Policy
+**Processing location:** USA – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
 
 ## Statistics:
 The services contained in this section allow the Data Controller to monitor and analyze traffic data and are used to keep track of User behavior.
@@ -61,7 +61,7 @@ Google may use this personal information to contextualize and personalize the ad
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – Privacy Policy – Opt Out
+**Processing location:** USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=it)
 
 ## How can I check the installation of Cookies?
 In addition to what is indicated in this document, the user can manage your preferences for cookies directly into your browser and prevent – for example – that third parties can install. Via your browser preferences you can also delete the cookies installed in the past, including Cookie in which is eventually saved the installation permission of Cookies by this site. It is important to note that disabling all cookies, the operation of this site may be compromised. You can find information about how to manage cookies in your browser to the following address: Google Chrome, Mozilla Firefox, Apple Safari and Microsoft Windows Explorer.
@@ -100,7 +100,7 @@ The natural person, legal person, public administration or any other body, assoc
 The hardware or software tool by which they are collected Personal Data of Users.
 
 ## Cookie
-Small piece of data stored in the User device.
+Small piece of data stored in the User device. Learn more on [http://aboutcookies.org/](http://aboutcookies.org/).
 
 ## Legal information
 Notice to European Users: This privacy statement has been prepared in fulfillment of the obligations under Art. 10 of Directive no. 95/46 / EC and with the provisions of Directive 2002/58 / EC, as revised by Directive 2009/136 / EC, with regard to Cookies.
