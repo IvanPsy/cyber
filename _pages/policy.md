@@ -55,6 +55,16 @@ The button and the Linkedin social widgets are interactive services with the soc
 
 **Processing location:** USA – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
 
+
+## Disqus comments
+Disqus is a free service that enables great online communities and discussion. We fully support freedom of speech. We give you the options to identify yourself in public online communities, in whatever format you’re comfortable with. 
+
+**Personal data collected:** Cookie and Usage Data.
+
+**Processing location:** USA – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
+
+
+
 ## Statistics:
 The services contained in this section allow the Data Controller to monitor and analyze traffic data and are used to keep track of User behavior.
 
@@ -65,6 +75,7 @@ Google may use this personal information to contextualize and personalize the ad
 **Personal data collected:** Cookie and Usage Data.
 
 **Processing location:** USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=it)
+
 
 ## How can I check the installation of Cookies?
 In addition to what is indicated in this document, the user can manage your preferences for cookies directly into your browser and prevent – for example – that third parties can install. Via your browser preferences you can also delete the cookies installed in the past, including Cookie in which is eventually saved the installation permission of Cookies by this site. It is important to note that disabling all cookies, the operation of this site may be compromised. You can find information about how to manage cookies in your browser to the following address: Google Chrome, Mozilla Firefox, Apple Safari and Microsoft Windows Explorer.
