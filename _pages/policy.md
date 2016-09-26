@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: Cookie Policy
 permalink: /policy.html
 ---
+
+# Cookie Policy
+
 
 ## Wide information on Cookies
 
