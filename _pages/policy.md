@@ -39,6 +39,7 @@ The Tweet button and the Twitter social widgets are interactive services with th
 
 ## +1 Button and Google+ social widgets (Google Inc.)
 The +1 button and Google+ social widgets are interactive services with the Google+ social network, provided by Google Inc.
+
 **Personal data collected:** Cookie and Usage Data.
 
 **Processing location:** USA – Privacy Policy
