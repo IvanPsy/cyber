@@ -74,7 +74,7 @@ Google may use this personal information to contextualize and personalize the ad
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=it)
+**Processing location:** USA – [Privacy Policy](http://www.google.com/intl/it/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout)
 
 
 ## How can I check the installation of Cookies?
