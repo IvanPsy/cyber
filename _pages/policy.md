@@ -61,7 +61,7 @@ Disqus is a free service that enables great online communities and discussion. W
 
 **Personal data collected:** Cookie and Usage Data.
 
-**Processing location:** USA – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
+**Processing location:** USA – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) - [Opt Out](https://help.disqus.com/customer/portal/articles/1657951)
 
 
 
