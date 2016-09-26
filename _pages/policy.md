@@ -49,6 +49,7 @@ The +1 button and Google+ social widgets are interactive services with the Googl
 The button and the Linkedin social widgets are interactive services with the social network Linkedin, provided by LinkedIn Corporation.
 
 **Personal data collected:** Cookie and Usage Data.
+
 **Processing location:** USA – Privacy Policy
 
 ## Statistics:
