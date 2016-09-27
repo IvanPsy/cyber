@@ -25,7 +25,7 @@ permalink: /categories/
     {% for post in site.tags[this_word] %}{% if post.title != null %}
 
     <div>
-        <span style="color: #777"><small>{{ post.date | date_to_string }}</small></span>&nbsp;&nbsp;<span><a href="{{ post.url }}"><small>{{ post.title }}</small></span>
+        <span style="color: #777"><small>{{ post.date | date_to_string }}</small></span>&nbsp;&nbsp;<span><a href="{{ post.url }}"><small>{{ post.title }}</small></a></span>
       
         </div>
     <div style="clear: both;"></div>

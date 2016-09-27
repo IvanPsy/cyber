@@ -28,7 +28,7 @@ author:
 
 # Google Analytics Configuration
 google_analytics:
-  tracking_id:      
+  tracking_id: 'UA-84736525-1'     
 
 # Version Info
 version:          1.0
