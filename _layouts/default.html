@@ -2,10 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
-
-{% if site.google_analytics.tracking_id %}
-  {% include google_analytics.html %}
-{% endif %}
   <body class="theme-base-0d sidebar-overlay">
 
     {% include sidebar.html %} 
@@ -73,5 +69,8 @@
       })(document);
     </script>
 {% include cookie-law.html %}
+ {% if site.google_analytics.tracking_id %}
+  {% include google_analytics.html %}
+{% endif %}
   </body>
 </html>
