@@ -1,7 +1,7 @@
 ---
 title: What is Cyberbullying - The Law and the current scenario
 description: The Law is still vague about Cyberbullying, and the scenario is often underestimated. Here I explain the real nature of Cyberbullying.
-date: '2016-10-02T09:37:51+00:00'
+date: 2016-10-02T09:37:51+00:00
 author: Dr Ivan Ferrero
 layout: post
 permalink: /cyberbullying-law-scenario/
@@ -11,7 +11,6 @@ tags:
   - Cyberbullying
   - Law against Cyberbullying
 published: true
-future: true
 img: cyberbullying-digital-law.jpg
 ---
 
